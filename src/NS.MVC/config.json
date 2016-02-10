@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "NS.MVC"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-NS.MVC-41e7c064-1c71-48c9-ac55-5fa02c2c8d9e;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
